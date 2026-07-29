@@ -1,0 +1,8 @@
+{
+  "name": "Nutracker",
+  "description": "Ekosistem digital kesehatan wanita yang menggabungkan pelacakan siklus menstruasi dengan intervensi gizi berbasis AKG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
