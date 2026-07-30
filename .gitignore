@@ -6,3 +6,4 @@ coverage/
 *.log
 .env*
 example.html
+public/Mood_img/*
